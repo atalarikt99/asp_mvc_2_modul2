@@ -1,0 +1,58 @@
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\Newtonsoft.Json.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Net.Http.Formatting.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Http.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Http.WebHost.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.Deployment.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.Razor.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\Newtonsoft.Json.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Net.Http.Formatting.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Http.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Http.WebHost.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.Deployment.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\System.Web.WebPages.Razor.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.CodeAnalysisLog.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.lastcodeanalysissucceeded
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\asp_mvc_2.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\asp_mvc_2.pdb
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\EntityFramework.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\Newtonsoft.Json.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Net.Http.Formatting.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Helpers.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Http.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Http.WebHost.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Mvc.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Razor.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.Deployment.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.Razor.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\EntityFramework.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\Newtonsoft.Json.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Net.Http.Formatting.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Helpers.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Http.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Http.WebHost.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Mvc.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.Razor.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.Deployment.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\System.Web.WebPages.Razor.xml
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+E:\Backup File Flashdisk\Pemrograman Desktop\asp_mvc_2 - Copy\asp_mvc_2\bin\asp_mvc_2.dll.config
